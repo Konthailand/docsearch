@@ -1,4 +1,4 @@
----
+pull request
 title: What is DocSearch?
 sidebar_label: What is DocSearch?
 ---
